@@ -7,4 +7,4 @@ class Dog
   end
   
 end
-dog.new="Fido"
+Dog.new="Fido"
